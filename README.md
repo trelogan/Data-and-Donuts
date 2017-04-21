@@ -1,4 +1,4 @@
-# :doughnut: Data & Donuts :doughnut:
+# Data & Donuts
 
 
-:doughnut: Welcome to Data & Donuts! A workshop series for people with data. Who love donuts. 
+Welcome to Data & Donuts! A workshop series for people with data. Who love donuts. 
